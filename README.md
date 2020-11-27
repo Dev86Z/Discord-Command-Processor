@@ -6,7 +6,9 @@ Dev86's fork of George's fork of inn0cent's Discord Command Control
 
 You can install this using the package manager [sampctl](http://sampctl.com):
 
-```sampctl package install sampdevi/dv_discord```
+```
+sampctl package install sampdevi/dv_discord
+```
 
 You can also install this the traditional way by including it in your script:
 ```pawn
