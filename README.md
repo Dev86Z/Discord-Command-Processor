@@ -4,7 +4,8 @@ Dev86's fork of George's fork of inn0cent's Discord Command Control
 
 # Installation
 
-sampctl package install 
+U
+`sampctl package install D`
 
 # What is dv_discord?
 
