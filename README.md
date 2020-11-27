@@ -1,12 +1,17 @@
-# Dev86's Discord Command Processor
+# Devi's Discord Library (dv_discord)
 
-(Dev86's fork of George's fork of inn0cent's Discord Command Control)
+Dev86's fork of George's fork of inn0cent's Discord Command Control
 
-# What is DCC?
+# Installation
 
-DCC is a command processor for discord bots in use with madd1nat0r's discord-connector plugin.
+sampctl package install 
 
-# What did i change?
+# What is dv_discord?
 
-DCC V2 was made for the sake of it to be compatible with discord-connector version 0.3.2, but the library had flaws that made it hard to get the command sender's author due to it returning the author's username as a string instead of DCC_User. I modified it so that it returns the author as DCC_User instead. With this modification, it would make it easier to get the author's account information (role, permissions, etc.).
-With this modification, i added 2 new functions that makes role checking and getting the discord user's name string easier.
+dv_discord is fork of Discord Command Control (DCC) by inn0cent, which is a command processor for discord bots in use with [discord connector](https://github.com/maddinat0r/samp-discord-connector "praise j0sh").
+
+# Documentation
+
+
+
+# How to use 
